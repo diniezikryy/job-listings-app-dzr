@@ -42,6 +42,7 @@ Learnt React and TailwindCSS on youtube and decided to attempt this challenge to
 - [React](https://reactjs.org/)
 - [ExpressJS](https://expressjs.com/)
 - [Axios](https://axios-http.com/)
+- [NodeJS](https://nodejs.org/en/)
 
 ### Continued development
 
